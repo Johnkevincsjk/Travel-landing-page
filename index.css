@@ -1,0 +1,238 @@
+.container {
+    background-image: url(./Images/0e8d995c265ef2a1c7eb9894c96170fb.jpg);
+    background-size: cover;
+    height: 1000px;
+    width: 950px;
+}
+
+.navbar {
+    
+display: flex;
+    
+    height: 100px;
+    
+    justify-content: center;
+
+
+}
+.navbar>ul{
+    display: flex;
+width: 1000px;
+}
+.navbar>p {
+    color: #000;
+    font-family: 'Peralta', serif;
+
+    font-size: 40px;
+    
+    font-weight: 400;
+    
+}
+
+.nav-button{
+    background-color: orange;
+    padding: 8px 20px;
+    border-radius: 5px;
+    
+}
+.nav-button>bTn{
+    color: white;
+
+}
+.mainsearch{
+  margin-top: 350px ;
+   
+
+}
+.mainsearch>bTn{
+    background-color: #4B40C5;
+}
+.mainsearch>p{
+    font-family: 'Bungee Spice', cursive;
+font-family: 'Poppins', sans-serif;
+color: #4B40C5;
+font-size: 38px;
+
+
+}
+/*Top nav-Bar first part completed*/
+
+.container2{
+    text-align: center;
+    margin-top: 100px;
+    width: 1440px;
+}
+.card-box{
+    margin-top: 50px ;
+    
+}
+.footer{
+    width: 200px;
+}
+
+.cards{
+    display: flex;
+    margin: 5px;
+    justify-content: space-evenly;
+    
+}
+
+/*category section has been completed so far*/
+
+.topselling{
+   text-align: center;
+   height: 1000px;
+margin-top: 100px;
+  
+}
+
+.ts-cards{
+    display: flex;
+    justify-content: center;
+}
+.ts-card1{
+   margin: 30px;
+   border-radius: 20px;
+   box-shadow: 4px 4px 7px 7px rgba(0, 0, 0, 0.518);
+}
+
+
+/*Top destination content has been done above*/
+.booking{
+    text-align: start;
+    margin-left: 150px;
+    display: flex;
+}
+
+.booking-steps{
+    display: flex;
+    font-size: 10px;
+   
+}
+.tips-bar{
+    margin-left: 200px;
+    border-radius: 20px;
+    box-shadow:10px 10px 300px 50px #4B40C5 ;
+    text-align: center;
+    font-size: 30px;
+    color: #84829A;
+    
+}
+.tips-img{
+    
+    margin: 5px;
+}
+/*booking and tips section has been completed*/
+
+.why{
+    margin: 100px 20px;
+    text-align: center;
+    font-size: 30px;
+}
+/*Why discription has been ends here*/
+.contain{
+    margin-left: 100px;
+    margin: 100px;
+    display: flex;
+    justify-content: space-evenly;
+
+   
+}
+.pack-holder{
+   text-align: center;
+    margin: 50px;
+}
+
+.icon-pack{
+    background-color: #4B40C5;
+    margin-left: 129px;
+    margin-bottom: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 5px 5px 20px 2px #4B40C5;
+}
+.content-pack{
+    box-shadow: 2px 2px 30px 9px rgba(0, 0, 0, 0.142);
+    height: 100px;
+    border-radius: 20px;
+    
+}
+.icon-pack1{
+    background-color: #F0BB1F;
+    margin-left: 129px;
+    margin-bottom: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 5px 5px 20px 2px #F0BB1F;
+
+}
+.icon-pack2{
+    background-color:#F15A2B;
+    margin-left: 129px;
+    margin-bottom: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 5px 5px 20px 2px #F15A2B;
+
+}
+/*Hiighlights has been done so far*/
+.final1{
+    height: 500px;
+    width: 1200px;
+    
+
+
+}
+
+.final-icon{
+    
+    background-color: #4B40C5;
+    margin-left: 100%;
+    margin-bottom: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 3px 2px #e7e7ef ;
+}
+.final-context{
+    text-align: center;
+    padding-left: 90px;
+    color: #5E6282;
+    margin: 100px 100px;
+    word-spacing: 10px;
+}
+
+.final-searchbar{
+
+    margin:65px;
+    border-radius: 20px;
+}
+/*Final context part has been completed*/
+.info-box{
+   
+    height: 300px;
+    width: 1500px;
+}
+
+.info-box1{
+    box-shadow: 5px 5px 10px 1px #4B40C5 inset;
+    border-radius: 30px;
+    width: 1200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin-left: 110px;
+    
+    
+}
+.box1{
+    margin: 300px;
+}
+/*Task done*/
